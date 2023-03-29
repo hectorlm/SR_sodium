@@ -1,0 +1,11 @@
+{
+    "models_settings":{
+        "resize_width": 80,
+        "equalize": "True",
+        "patch_width": 80,
+        "patch_height": 80,
+        "train_dir": "./data/train",
+        "test_dir": "./data/test"
+    }
+}
+
